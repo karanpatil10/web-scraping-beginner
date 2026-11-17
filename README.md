@@ -1,2 +1,2 @@
-# Data-parsing-beginner
-data parsing from free website using python
+# web-scraping-beginner
+web scraping from free website using python
